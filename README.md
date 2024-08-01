@@ -1,5 +1,13 @@
 # React + Vite
 
+npm create vite@latest       on the other hand open another terminal side by side of initial terminal 
+                             and run 
+                             npm i ethers (for getting the ethers dependencies).
+cd client 
+npm install
+
+npm run dev 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
